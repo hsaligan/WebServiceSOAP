@@ -5,6 +5,6 @@ C:\Users\GFI-528\eclipse-workspace\JAXWS_Calculadora\src\com>wsimport -s . http:
 git init
 git status
 git add -A
-git comit -m "Primera versión"
+git commit -m "Primera versión"
 git remote add origin https://github.com/hsaligan/WebServiceSOAP
 git push origin master
