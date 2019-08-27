@@ -1,0 +1,1 @@
+C:\Users\GFI-528\eclipse-workspace\JAXWS_Calculadora\src\com>wsimport -s . http://localhost:1515/WS/Calculadora?wsdl
